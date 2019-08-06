@@ -1,1 +1,12 @@
+author: Yasuharu Iida
+
+lang: ja
+timezone: Asia/Tokyo
+
+exclude:
+  - README.md
+  - docker-compose.yml
+
 theme: jekyll-theme-cayman
+
+parmalink: date
