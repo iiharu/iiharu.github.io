@@ -9,6 +9,5 @@ exclude:
   - docker-compose.yml
 
 theme: jekyll-theme-cayman
-google_analytics: UA-145256426-1
 
 parmalink: date
