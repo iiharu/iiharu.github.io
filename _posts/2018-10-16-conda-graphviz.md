@@ -2,6 +2,8 @@
 title: conda経由でインストールしたgraphvizが動かない問題の対処方法
 ---
 
+# conda経由でインストールしたgraphvizが動かない問題の対処方法
+
 ## 環境
 
 - OS: Windows 10
