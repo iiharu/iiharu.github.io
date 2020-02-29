@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: プログラミング, ときどき...
 ---
-# Hello World
+# プログラミング, ときどき...
 
 ## Recent Post
 <ul>

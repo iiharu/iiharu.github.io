@@ -1,4 +1,4 @@
-title: Hello World
+title: プログラミング, ときどき...
 author: Yasuharu Iida
 
 lang: ja
@@ -9,6 +9,9 @@ exclude:
   - docker-compose.yml
 
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+
 google_analytics: UA-145256426-1
 
 parmalink: date
